@@ -1,0 +1,47 @@
+/**
+ * Theme Name: Open Floor Plan
+ * Theme URI: http://www.agentevolution.com/kb/open-floor-plan/
+ * Author: Agent Evolution
+ * Author URI: http://www.agentevolution.com/
+ * Description: A responsive, modern Real Estate Child Theme with a full width slideshow for Equity Framework
+ * Version: 1.0.q0
+ * License: GNU General Public License v2 or later
+ * License URI: http://www.gnu.org/licenses/gpl-2.0.html
+ * Text Domain: open-floor-plan
+ * Domain Path: /languages/
+ * Tags: blue, green, red, tan, gray, responsive-layout, left-sidebar, right-sidebar, custom-menu, editor-style, featured-images, microformats, translation-ready
+ * Template: equity
+ */
+
+/* =Defaults (Foundation Functions and Variables)
+------------------------------------------------------------------------- */
+@import "open_floor_plan_settings";
+
+/* =Buttons (Foundation)
+------------------------------------------------------------------------- */
+@import "foundation/components/buttons";
+
+/* =Typography (Foundation)
+------------------------------------------------------------------------- */
+@import "foundation/components/type";
+
+/* =Top Bar(Foundation)
+------------------------------------------------------------------------- */
+@import "foundation/components/top-bar";
+
+/* =Pagination (Foundation)
+------------------------------------------------------------------------- */
+@import "foundation/components/pagination";
+
+// Partials
+@import "partials/general";
+@import "partials/header";
+@import "partials/footer";
+@import "partials/sidebar";
+@import "partials/home";
+@import "partials/post";
+@import "partials/comments";
+@import "partials/widgets";
+@import "partials/shortcodes";
+@import "partials/colors";
+@import "partials/idx";
