@@ -1,0 +1,371 @@
+# Copyright (C) 2016 Agent Evolution
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Open Floor Plan 1.0.4\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/support/theme/style\n"
+"POT-Creation-Date: 2016-05-03 19:25:01+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2016-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"X-Generator: grunt-wp-i18n 0.4.9\n"
+"X-Poedit-KeywordsList: "
+"__;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;_nx_noop:1,2,3c;esc_"
+"attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;esc_html_x:1,2c;\n"
+"Language: en\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Country: United States\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-Bookmarks: \n"
+"X-Textdomain-Support: yes\n"
+
+#. Theme Name of the plugin/theme
+msgid "Open Floor Plan"
+msgstr ""
+
+#: functions.php:22
+msgid "Green"
+msgstr ""
+
+#: functions.php:23
+msgid "Red"
+msgstr ""
+
+#: functions.php:24
+msgid "Tan"
+msgstr ""
+
+#: functions.php:25
+msgid "Grey"
+msgstr ""
+
+#: functions.php:26
+msgid "Use Customizer"
+msgstr ""
+
+#: functions.php:78
+msgid "Header Right"
+msgstr ""
+
+#: functions.php:101
+msgid "Home Top"
+msgstr ""
+
+#: functions.php:102
+msgid ""
+"This is the Top section of the Home page. Recommended to add the Soliloquy "
+"Slider."
+msgstr ""
+
+#: functions.php:108
+msgid "Home Middle 1"
+msgstr ""
+
+#: functions.php:109
+msgid ""
+"This is the first Middle section of the Home page. Recommended to add "
+"Equity - IDX Quick Search or WP Listings Search widget."
+msgstr ""
+
+#: functions.php:115
+msgid "Home Middle 2"
+msgstr ""
+
+#: functions.php:116
+msgid ""
+"This is the second Middle section of the Home page. Recommended to add "
+"Equity - IDX Property Showcase or WP Listings Featured Listings widget."
+msgstr ""
+
+#: functions.php:122
+msgid "Home Middle 3"
+msgstr ""
+
+#: functions.php:123
+msgid ""
+"This is the third Middle section of the Home page. Recommended to add a "
+"text widget and use shortcodes for calls to action."
+msgstr ""
+
+#: functions.php:129
+msgid "Home Bottom Left"
+msgstr ""
+
+#: functions.php:130
+msgid ""
+"This is the Bottom left section of the Home page. Recommended to use the "
+"Equity - Featured Posts or other widget."
+msgstr ""
+
+#: functions.php:136
+msgid "Home Bottom Right"
+msgstr ""
+
+#: functions.php:137
+msgid ""
+"This is the Bottom right section of the Home page. Recommended to use a "
+"custom menu or other widget."
+msgstr ""
+
+#: lib/customizer.php:23
+msgid "Custom Colors"
+msgstr ""
+
+#: lib/customizer.php:53
+msgid "Primary Color"
+msgstr ""
+
+#: lib/customizer.php:68
+msgid "Primary Hover Color"
+msgstr ""
+
+#: lib/customizer.php:84
+msgid "Home Background"
+msgstr ""
+
+#: lib/customizer.php:111
+msgid "Default Background Image"
+msgstr ""
+
+#: lib/customizer.php:112
+msgid ""
+"Used only for the home page. <p style=\"font-style: normal;\">Upload an "
+"image in <strong>.JPG</strong> format at least 1200x800 "
+"pixels.</p><p><strong><a href=\"http://www.smushit.com/ysmush.it/\" "
+"target=\"_blank\">Optimize</a></strong> your images!</p>"
+msgstr ""
+
+#: lib/customizer.php:146
+msgid "Show site description?"
+msgstr ""
+
+#: lib/customizer.php:158
+msgid "Disable Sticky Header?"
+msgstr ""
+
+#: lib/metaboxes.php:28
+msgid "Single Post Options"
+msgstr ""
+
+#: lib/metaboxes.php:36
+msgid "Custom Background Image"
+msgstr ""
+
+#: lib/metaboxes.php:37
+msgid "Upload an image to use as the background for this post."
+msgstr ""
+
+#: lib/metaboxes.php:42
+msgid "Disable Background"
+msgstr ""
+
+#: lib/metaboxes.php:43
+msgid "Check to disable the background image on this post."
+msgstr ""
+
+#: lib/plugins.php:65
+msgid ""
+"The following plugins are either recommended or required to get the most "
+"out of your theme."
+msgstr ""
+
+#: lib/plugins.php:67
+msgid "Install Required Plugins"
+msgstr ""
+
+#: lib/plugins.php:68
+msgid "Install Plugins"
+msgstr ""
+
+#: lib/plugins.php:69
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: lib/plugins.php:70
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: lib/plugins.php:71
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/plugins.php:72
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/plugins.php:73
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %s "
+"plugin. Contact the administrator of this site for help on getting the "
+"plugin installed."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins installed."
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/plugins.php:74
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/plugins.php:75
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/plugins.php:76
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugin. Contact the administrator of this site for help on getting the "
+"plugin activated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins activated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/plugins.php:77
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/plugins.php:78
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"updated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins updated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/plugins.php:79
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/plugins.php:80
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/plugins.php:81
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: lib/plugins.php:82
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: lib/plugins.php:83
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: single-listing-classical.php:1041 single-listing-elegant.php:991
+#: single-listing-luxurious.php:947 single-listing-solid.php:1002
+#: single-listing-spacious.php:998
+msgid "View more <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: single-listing-classical.php:1068 single-listing-classical.php:1070
+#: single-listing-elegant.php:1017 single-listing-elegant.php:1019
+#: single-listing-luxurious.php:971 single-listing-luxurious.php:973
+#: single-listing-solid.php:1027 single-listing-solid.php:1029
+#: single-listing-spacious.php:1023 single-listing-spacious.php:1025
+msgid "Price:"
+msgstr ""
+
+#: single-listing-classical.php:1076 single-listing-elegant.php:1025
+#: single-listing-luxurious.php:979 single-listing-solid.php:1035
+#: single-listing-spacious.php:1031
+msgid "Address:"
+msgstr ""
+
+#: single-listing-classical.php:1077 single-listing-elegant.php:1026
+#: single-listing-luxurious.php:980 single-listing-solid.php:1036
+#: single-listing-spacious.php:1032
+msgid "City:"
+msgstr ""
+
+#: single-listing-classical.php:1078 single-listing-elegant.php:1027
+#: single-listing-luxurious.php:981 single-listing-solid.php:1037
+#: single-listing-spacious.php:1033
+msgid "State:"
+msgstr ""
+
+#: single-listing-classical.php:1079 single-listing-elegant.php:1028
+#: single-listing-luxurious.php:982 single-listing-solid.php:1038
+#: single-listing-spacious.php:1034
+msgid "Zip Code:"
+msgstr ""
+
+#: single-listing-classical.php:1115 single-listing-elegant.php:1064
+#: single-listing-luxurious.php:1018 single-listing-solid.php:1074
+#: single-listing-spacious.php:1070
+msgid "Tagged Features:"
+msgstr ""
+
+#: single-listing-classical.php:1123 single-listing-elegant.php:1072
+#: single-listing-luxurious.php:1026 single-listing-solid.php:1082
+#: single-listing-spacious.php:1078
+msgid "Home Summary"
+msgstr ""
+
+#: single-listing-classical.php:1125 single-listing-elegant.php:1074
+#: single-listing-luxurious.php:1028 single-listing-solid.php:1084
+#: single-listing-spacious.php:1080
+msgid "Kitchen Summary"
+msgstr ""
+
+#: single-listing-classical.php:1127 single-listing-elegant.php:1076
+#: single-listing-luxurious.php:1030 single-listing-solid.php:1086
+#: single-listing-spacious.php:1082
+msgid "Living Room"
+msgstr ""
+
+#: single-listing-classical.php:1129 single-listing-elegant.php:1078
+#: single-listing-luxurious.php:1032 single-listing-solid.php:1088
+#: single-listing-spacious.php:1084
+msgid "Master Suite"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "http://www.agentevolution.com/kb/open-floor-plan/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"A responsive, modern Real Estate Child Theme with a full width slideshow "
+"for Equity Framework"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Agent Evolution"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://www.agentevolution.com/"
+msgstr ""
