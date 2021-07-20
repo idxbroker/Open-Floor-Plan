@@ -1,0 +1,42 @@
+== Changelog ==
+
+== 1.0.11 ==
+* New: Completed Font Awesome 5 transition
+
+== 1.0.10 ==
+* Fix: Resolves issue with sample listing data import file
+
+== 1.0.9 ==
+* New: Theme identifying class added to body
+
+== 1.0.8 ==
+* New: Listing templates have been moved to the IMPress Listings plugin
+* Fix: Minor CSS class change
+
+== 1.0.7 ==
+* New: Font Awesome 5
+* Fix: Prevent page from jumping upon initial scroll
+
+== 1.0.6 ==
+* Fix: Tidy up CSS for IDX mobile first templates
+
+== 1.0.5 ==
+* Fix: Single listing templates updated with Google Maps key if applicable
+* Fix: XML files pointing to wrong URLs for media
+
+== 1.0.4 ==
+* New: Added CSS for IDX mobile first templates
+* New: Added single listing templates
+
+== 1.0.3 ==
+* Fix: Safari bug with sticky header CSS transition
+
+== 1.0.2 ==
+* New: CSS added for author box and new editor styles added in Equity 1.3
+* New: theme.js modified to account for removal of app.js in Equity 1.3
+
+== 1.0.1 ==
+* Fix: CSS fix for top header right not aligning with some widgets
+
+== 1.0 ==
+* Initial release
